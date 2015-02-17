@@ -16,6 +16,7 @@ body{
 	padding-bottom: 5px;
 	display: none;
 	border:1px solid #ddd;
+	margin-top:2px;
 	
 }
 .calendar-wrap .date-info{	

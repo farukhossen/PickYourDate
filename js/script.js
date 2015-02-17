@@ -1,4 +1,5 @@
 $(document).ready(function(){
-	alert("yes");
+	
 	$("#date").pickyourdate();
+	$("#date2").pickyourdate();
 });
