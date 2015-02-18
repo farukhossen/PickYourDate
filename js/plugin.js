@@ -3,7 +3,7 @@
 	$.fn.pickyourdate=function(options){
 
 		//options
-		var settings = {"separator":","}
+		var settings = {"separator":"/"}
 		if(options){
 			$.extend(settings,options);
 		}
